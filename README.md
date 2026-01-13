@@ -98,9 +98,13 @@ The trained XGBoost model is deployed using a FastAPI application. The applicati
 Insights from this project can inform policy for emission controls, urban planning, and public health alerts in Dhaka, contributing to better air quality management.
 
 ## Assets
-- **Trend plot**: ![AQI Trend](assets/trend.png)
-- **PM vs AQI**: ![PM2.5 vs PM10](assets/ratios.png)
-- **Interpretability**: ![Shap-XGBoost](assets/shap-xgb.png)
-- **Results**: ![Metrics Comparison](assets/metrics.JPG)
+- **Trend plot**
+- ![AQI Trend](assets/trend.png)
+- **PM vs AQI**
+- ![PM2.5 vs PM10](assets/ratios.png)
+- **Interpretability**
+- ![Shap-XGBoost](assets/shap-xgb.png)
+- **Results**
+- ![Metrics Comparison](assets/metrics.JPG)
 
 These are placeholder images; replace the files under the `assets/` folder with your actual figures (keeping the same filenames) to display real plots in this README.
